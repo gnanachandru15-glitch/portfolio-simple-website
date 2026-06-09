@@ -17,16 +17,6 @@ A simple and responsive portfolio website built using HTML and CSS. This project
 - HTML5
 - CSS3
 
-## 📂 Project Structure
-
-```
-portfolio/
-│
-├── index.html
-├── style.css
-├── contant-form
-└── README.md
-```
 
 ## How to view
 you can access my portfolio website by visiting[link] feel free to explore the contentand get in touch!
